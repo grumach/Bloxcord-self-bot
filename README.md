@@ -6,4 +6,5 @@ basically free robux anyway to run just put your token in the config.json and ru
 !help or !cmds to see the commands have fun cuz I actually hate this server
 
 No its not malware idiots I can provide how I actually made this selfbot if requested
+
 No your discord.py wont break selfcord will override it you just have to import it in a different way
