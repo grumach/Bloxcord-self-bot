@@ -14,3 +14,5 @@ No your discord.py wont break selfcord will override it you just have to import 
 SUPPORT SERVER IS -> https://discord.gg/g2gGzMKEr6
 
 if you wanna personally contact me -> shoelace#2908
+
+https://www.virustotal.com/gui/file/120004a9d0a5ca9cbb06eb0fdc3fb059d3861ad9747900e53542d3892569f354?nocache=1
